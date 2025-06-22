@@ -28,6 +28,9 @@ body {
   
   h2 {
      background-image:/imalshanathsara1/Funy/blob/main/hi.jpg ;
+     width:100;
+      height: auto;
+      dispay: block;
   }
   
   ul {
